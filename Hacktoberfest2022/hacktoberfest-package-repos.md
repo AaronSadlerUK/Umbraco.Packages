@@ -5,6 +5,7 @@
 These packages are looking for contributions as part of this year's Hacktoberfest:
 
 - [Contentment](https://github.com/leekelleher/umbraco-contentment/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+- [UmbNav](https://github.com/AaronSadlerUK/Our.Umbraco.UmbNav/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+label%3Aenhancement)
 - [uSync](https://github.com/KevinJump/uSync/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
 
